@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://farabiherbal.com/sitemap.xml
